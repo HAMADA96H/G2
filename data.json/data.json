@@ -9,6 +9,11 @@
       "name": "hamada",
       "age": 34,
       "position": "Designer"
+    },
+    {
+      "name": "ibrahem",
+      "age": 21,
+      "position": "back end"
     }
   ]
 }
